@@ -1,5 +1,6 @@
 # React-Native-Uber-Clone
 
-This React Native App was built with Expo. The app is a duplicate structure/clone of the Uber App. It uses the Google Maps API and Location Autocomplete API to integrate the Maps on the Screen as well as Autocomplete the location the user will be typing, respectively.
 
-You can find the prototype of the app QR Code hosted <a href="https://expo.dev/@actuallysam/uber-clone">HERE</a>
+Created a React Native App with Expo 
+This app is a clone of the Uber App utilizing multiple libraries and interacting with API’s such as Google Distance Matrix API to calculate travel time and distance(also cost), Directions Google API and Google places API for real navigation, use Apple and Google maps for IOS & Android, 
+Used React, React Native, Redux, Expo, React Native Elements, React Navigation, React Maps and Tailwind CSS
